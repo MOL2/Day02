@@ -1,0 +1,2 @@
+for i in {1..20} ; do touch $i ; done
+rm *[02468]
